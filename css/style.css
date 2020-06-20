@@ -1,0 +1,16 @@
+#title, #description {
+    text-align: center;
+}
+
+#survey-form {
+    background-color: rgba(41, 109, 235, 0.5);
+    margin: 10px 20%;
+    padding: 1em 0;
+    border: 2px solid rgb(41, 109, 235);
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    padding: 1em;
+}
