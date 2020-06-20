@@ -32,8 +32,13 @@ textarea {
   padding-left: 2em;
 }
 
+textarea {
+  display: block;
+  width: 90%;
+  margin: 10px;
+}
+
 #submit {
   display: block;
   margin-top: 0.5em;
-  margin-right: 0;
 }
